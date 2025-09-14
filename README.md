@@ -1,4 +1,4 @@
-# Enjoyable Matches Analysis - Premier League (2000–2020)
+# Enjoyable Matches Analysis - England (2000–2020)
 
 This project analyzes football matches in the English Premier League between 2000 and 2020, based on goal counts, to determine which teams had the most "enjoyable" matches.
 
